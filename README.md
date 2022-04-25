@@ -1,6 +1,7 @@
 # COMP2211 Exploring AI
 
 Semseter: 2022 Spring
+
 Instructor: Desmond TSOI
 
 ## Course Destription
